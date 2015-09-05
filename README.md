@@ -57,7 +57,7 @@
         </td>
         <td>
             <strong>2015 04 23</strong><br>
-            <a href="https://github.com/ga-students/MOB-NYC-3/tree/master/Lessons/Lesson%2002">02 - Intro to Storyboards</a><br>
+            <a href="https://github.com/ga-students/MOB-NYC-3/tree/master/Lessons/Lesson%2002">02 - Introduction to Storyboards</a><br>
             <a href="http://mobbook.generalassemb.ly/week02/ib2.html">3.3</a>
         </td>
     </tr>
@@ -72,56 +72,117 @@
             <a href="http://mobbook.generalassemb.ly/week02/swift.html">3.1</a>,
             <a href="http://mobbook.generalassemb.ly/week02/definitions.html">3.2</a>
         </td>
-        <td><strong>2015 04 30</strong><br>04 - Intro to Functions</td>
+        <td><strong>2015 04 30</strong><br>
+            <a href="https://github.com/ga-students/MOB-NYC-3/tree/master/Lessons/Lesson%2004">
+                04 - Introduction to Control Flow</a>
+            <br>
+            <em>Assessment #1 Due</em>
+        </td>
     </tr>
     
     <tr>
         <td><strong>Wk 3</strong></td>
         <td>2</td>
-        <td><strong>2015 05 05</strong><br>05 - Interface Builder and Code</td>
-        <td><strong>2015 05 07</strong><br>06 - Object-Oriented Programming</td>
+        <td><strong>2015 05 05</strong><br>
+            <a href="https://github.com/ga-students/MOB-NYC-3/tree/master/Lessons/Lesson%2005">
+                05 - Introduction to Functions
+            </a>
+            <br>
+            <a href="http://mobbook.generalassemb.ly/week02/swift.html">3.1</a>
+        </td>
+        <td><strong>2015 05 07</strong><br>
+            <a href="https://github.com/ga-students/MOB-NYC-3/tree/master/Lessons/Lesson%2006">
+                06 - Object-Oriented Programming
+            </a>
+            <br>
+            <a href="http://mobbook.generalassemb.ly/week03/terms.html">4.1</a>
+        </td>
     </tr>
     
     <tr>
         <td><strong>Wk 4</strong></td>
         <td>2</td>
-        <td><strong>2015 05 12</strong><br>07 - UI Elements and View Controllers</td>
-        <td><strong>2015 05 14</strong><br>08 - Data Structures - Arrays and Dictionaries</td>
+        <td><strong>2015 05 12</strong><br>
+            <a href="https://github.com/ga-students/MOB-NYC-3/tree/master/Lessons/Lesson%2007">
+                07 - Powering Interfaces with Code
+            </a>
+            <br>
+        </td>
+        <td><strong>2015 05 14</strong><br>
+            <a href="https://github.com/ga-students/MOB-NYC-3/tree/master/Lessons/Lesson%2008">
+                08 - Swift Data Structures
+            </a>
+            <br>
+            <em>Assessment #2 due</em>
+        </td>
     </tr>
     
     <tr>
         <td><strong>Wk 5</strong></td>
         <td>2</td>
-        <td><strong>2015 05 19</strong><br>09 - Table Views</td>
-        <td><strong>2015 05 21</strong><br>10 - iOS Design Patterns</td>
+        <td><strong>2015 05 19</strong><br>
+            <a href="https://github.com/ga-students/MOB-NYC-3/tree/master/Lessons/Lesson%2009">
+                09 - Table Views
+            </a>
+        </td>
+        <td><strong>2015 05 21</strong><br>
+            <a href="https://github.com/ga-students/MOB-NYC-3/tree/master/Lessons/Lesson%2010">
+                10 - App-Building Workflow
+            </a>
+        </td>
     </tr>
     
     <tr>
         <td><strong>Wk 6</strong></td>
         <td></td>
-        <td><strong>2015 05 26</strong><br>11 - MIDTERM 1</td>
-        <td><strong>2015 05 28</strong><br>12 - MIDTERM 2</td>
+        <td><strong>2015 05 26</strong><br>
+            11 - MIDTERM 1 - Getting Started<br>
+            <em>Assessment #3 due</em>
+        </td>
+        <td><strong>2015 05 28</strong><br>
+            12 - MIDTERM 2 - Lab Time
+        </td>
     </tr>
     
     <tr>
         <td><strong>Wk 7</strong></td>
         <td>3</td>
-        <td><strong>2015 06 02</strong><br>13 - Files and Persistence 1</td>
-        <td><strong>2015 06 04</strong><br>14 - Files and Persistence 2</td>
+        <td><strong>2015 06 02</strong><br>
+            <a href="https://github.com/ga-students/MOB-NYC-3/tree/master/Lessons/Lesson%2013">
+                13 - Introduction to Auto Layout
+            </a><br>
+            <em>Assessment #4 assigned</em>
+        </td>
+        <td><strong>2015 06 04</strong><br>
+            14 - Views and Interactivity
+        </td>
     </tr>
     
     <tr>
         <td><strong>Wk 8</strong></td>
         <td>3</td>
-        <td><strong>2015 06 09</strong><br>15 - Networking 1</td>
-        <td><strong>2015 06 11</strong><br>16 - Networking 2</td>
+        <td><strong>2015 06 09</strong><br>
+            <a href="https://github.com/ga-students/MOB-NYC-3/tree/master/Lessons/Lesson%2015">
+                15 - Files and Persistence 1
+            </a><br>
+            <em>Midterm due</em><br>
+            <em>Assessment 05 assigned</em>
+        </td>
+        <td><strong>2015 06 11</strong><br>
+            16 - Files and Persistence 2
+        </td>
     </tr>
     
     <tr>
         <td><strong>Wk 9</strong></td>
         <td></td>
-        <td><strong>2015 06 16</strong><br>18 - Bonus Lesson</td>
-        <td><strong>2015 06 18</strong><br>19 - Review / Lab Time</td>
+        <td><strong>2015 06 16</strong><br>
+            18 - Networking 1<br>
+            <em>Assessment 06 assigned</em>
+        </td>
+        <td><strong>2015 06 18</strong><br>
+            19 - Networking 2
+        </td>
     </tr>
     
     <tr>
@@ -142,7 +203,7 @@
         <td><strong>Wk 12</strong></td>
         <td></td>
         <td><strong>2015 07 07</strong><br>24 - Final Project Presentations</td>
-        <td>BONUS SESSION? = App Store Submission Process</td>
+        <td>BONUS SESSION<br>App Store Submission Process</td>
     </tr>
     
     
@@ -154,12 +215,10 @@
 
 Work for the class consists of in-class exercises, "homework" assignments, and two projects.
 
-Each assignment will be assigned on a Tuesday. The following Tuesday, Angel will hold a brief session before (or after) class to go over techniques for solving the problem. The assignment will be due 2 days later on the Thursday. i.e. Each assignment will be due 9 days after it is assigned. A solution will be posted after class the day the assignment is due.
-
 <table>
     <thead>
         <tr>
-            <th>Week</th>
+            <th>#</th>
             <th>Assignment</th>
         </tr>
     </thead>
@@ -167,6 +226,49 @@ Each assignment will be assigned on a Tuesday. The following Tuesday, Angel will
         <tr>
             <td><strong>00</strong></td>
             <td>Finish the Photo Collection exercise</td>
+        </tr>
+        <tr>
+            <td><strong>01</strong></td>
+            <td>
+                <a href="https://github.com/ga-students/MOB-NYC-3/blob/master/Assessments_Challenges/Week%2001/MOB_Week%201%20Assignment.pdf">
+                    Assessment 01 - Create a Vanity App
+                </a>
+            </td>
+        </tr>
+        
+        <tr>
+            <td><strong>02 - 03</strong></td>
+            <td>
+                <a href="https://github.com/ga-students/MOB-NYC-3/tree/master/Lessons/Lesson%2004">
+                    Complete the Intro to Swift playground
+                </a><br>
+                <a href="https://github.com/ga-students/MOB-NYC-3/tree/master/Lessons/Lesson%2005">
+                    Complete the Functions playground
+                </a><br>
+                <a href="https://github.com/ga-students/MOB-NYC-3/blob/master/Lessons/Lesson%2006/Lesson%2006%20-%20OOP%201.pdf">
+                    Complete the "Simulate a Game" near the end of the Lesson 06 slides (Slide 35).
+                </a>
+            </td>
+        </tr>
+        
+        <tr>
+            <td>04</td>
+            <td>Create a Todo List App</td>
+        </tr>
+        
+        <tr>
+            <td>05</td>
+            <td>
+                <a href="https://github.com/ga-students/MOB-NYC-3/tree/master/Assessments_Challenges/Assessment%2005">Auto Layout exercise</a>
+            </td>
+        </tr>
+
+        <tr>
+            <td>06</td>
+            <td>
+                <a href="https://github.com/ga-students/MOB-NYC-3/tree/master/Assessments_Challenges/Assessment%2006">Networking Exercise</a><br>
+                Ignore the TODO regarding AFNetworking.
+            </td>
         </tr>
     </tbody>
 </table>
@@ -180,7 +282,7 @@ This is where you'll receive announcements, reminders about assignments, additio
 
 ## Office Hours
 
-TBD.
+Determined on a weekly basis...
 
 ## Github
 
